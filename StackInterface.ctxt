@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=interface\ StackInterface
+comment1.params=
+comment1.target=void\ popAll()
+comment2.params=
+comment2.target=Object\ pop()
+comment3.params=
+comment3.target=Object\ peek()
+comment4.params=newItem
+comment4.target=void\ push(Object)
+comment5.params=
+comment5.target=boolean\ isEmpty()
+numComments=6

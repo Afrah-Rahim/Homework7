@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=exp
+comment1.target=java.lang.String\ evaluateInfix(java.lang.String)
+comment1.text=\r\n\ evaluateInfix\:\ A\ method\ that\ converts\ an\ expression\ that\ is\ in\ infix\ form\ to\ postfix\ form\r\n\ \r\n\ Precondition\:\ A\ string\ expression\ in\ infix\ form\ is\ entered\r\n\ Postcondition\:\ The\ expression\ is\ converted\ to\ postfix\ and\ returned\ as\ a\ string\r\n
+comment2.params=str\ index
+comment2.target=boolean\ isOperator(java.lang.String,\ int)
+comment2.text=\r\n\ isOperator\:\ A\ method\ that\ checks\ if\ the\ index\ given\ is\ an\ operator\ or\ not\r\n\ \r\n\ @param\:\ A\ string\ expression\ and\ int\ index\r\n\ @returns\:\ A\ boolean\r\n
+comment3.params=expression
+comment3.target=int\ evaluatePostfix(java.lang.String)
+comment3.text=\r\n\ evaluatePostfix\:\ A\ method\ that\ calculates\ an\ expression\ by\ using\ Stacks\ \r\n\ \r\n\ Precondition\:\ A\ string\ is\ entered\ that\ is\ in\ postFix\ form\r\n\ Postcondition\:\ An\ int\ is\ returned\ that\ is\ the\ result\ of\ the\ operations\r\n
+numComments=4

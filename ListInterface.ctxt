@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=interface\ ListInterface
+comment1.params=index
+comment1.target=void\ remove(int)
+comment2.params=index
+comment2.target=Object\ get(int)
+comment3.params=
+comment3.target=int\ size()
+comment4.params=
+comment4.target=void\ removeAll()
+comment5.params=index\ item
+comment5.target=void\ add(int,Object)
+comment6.params=
+comment6.target=boolean\ isEmpty()
+numComments=7

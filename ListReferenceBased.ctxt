@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=class\ ListReferenceBased
+comment1.params=index
+comment1.target=Object\ get(int)
+comment10.params=
+comment10.target=int\ size()
+comment2.params=index
+comment2.target=void\ remove(int)
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=
+comment4.target=ListReferenceBased()
+comment5.params=
+comment5.target=void\ removeAll()
+comment6.params=index
+comment6.target=Node\ find(int)
+comment7.target=numItems
+comment8.target=head
+comment9.params=index\ item
+comment9.target=void\ add(int,Object)
+numComments=11

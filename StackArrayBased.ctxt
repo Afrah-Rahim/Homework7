@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=class\ StackArrayBased
+comment1.params=
+comment1.target=boolean\ isFull()
+comment10.params=
+comment10.target=Object\ peek()
+comment2.params=
+comment2.target=void\ popAll()
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=
+comment4.target=StackArrayBased()
+comment5.target=items
+comment6.params=newItem
+comment6.target=void\ push(Object)
+comment7.target=top
+comment8.params=
+comment8.target=Object\ pop()
+comment9.target=MAX_STACK
+numComments=11

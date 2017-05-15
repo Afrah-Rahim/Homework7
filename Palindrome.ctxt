@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Palindrome()
+comment0.text=\r\n\ Palindrome\:\ default\ constructor,\ testString\ is\ the\ empty\ String,\ which\ is\ a\ palindrome.\r\n\ @param\ none\r\n
+comment1.params=testStr
+comment1.target=Palindrome(java.lang.String)
+comment1.text=\r\n\ Palindrome\:\ overloaded\ constructor\ with\ one\ parameter.\r\n\ @param\ String\ testStr,\ the\ String\ to\ test\ whether\ or\ not\ it\ is\ a\ palindrome.\r\n
+comment2.params=
+comment2.target=boolean\ checkPalindrome()
+comment2.text=\r\n\ checkPalindrome\:\ check\ whether\ or\ not\ the\ attribute\ testString\ is\ a\ palindrome.\r\n\ @param\ None\r\n\ @return\ true\ if\ testString\ is\ a\ palindrome,\ false\ otherwise.\r\n
+comment3.params=
+comment3.target=void\ test()
+comment3.text=\r\n\ test\:\ test\ checkPalindrome\ method\ on\ various\ Strings.\r\n
+numComments=4
